@@ -1,3 +1,4 @@
 # site_empreiteira
 
-Web site responsivo.
+Web site comercial para uma empreiteira.
+#Em construção.
